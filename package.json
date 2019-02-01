@@ -48,7 +48,6 @@
     "@types/sinon-chai": "^3.2.2",
     "chai": "^4.2.0",
     "coveralls": "^3.0.2",
-    "es6-weak-map": "^2.0.2",
     "istanbul": "1.1.0-alpha.1",
     "mocha": "^5.2.0",
     "rimraf": "^2.6.1",
@@ -60,6 +59,7 @@
   },
   "dependencies": {
     "lodash": "^4.17.11",
+    "es6-weak-map": "^2.0.2",
     "tslib": "^1.6.0"
   }
 }
